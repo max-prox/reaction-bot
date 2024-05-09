@@ -2,8 +2,8 @@ from pyrogram import Client, filters
 import requests
 import random
 
-api_id = 29107110 # Api Id here
-api_hash = 'b70bbb7efbe3155b5947aa7da71c935f' # Api Hash Here
+api_id = 25916929 # Api Id here
+api_hash = 'efecd67d1dffb71cb7263dcc3cef0e46' # Api Hash Here
 
 token = '7199107550:AAGAOhyao-E-DGbhnS1A0lRucZSwDh4rPgM' #Bot Token Here.
 
